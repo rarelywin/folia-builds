@@ -6,3 +6,4 @@
 
 # folia-builds
 There's all builds of folia core i waste time to build it so you dont have to :)
+Please star the repository if it help you i'll happy ⭐ 
