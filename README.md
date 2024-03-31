@@ -5,4 +5,4 @@
 </div>
 
 # folia-builds
-All builds of Folia core.
+There's all builds of folia core i waste time to build it so you dont have to :)
